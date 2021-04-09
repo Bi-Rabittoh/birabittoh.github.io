@@ -16,17 +16,18 @@ where the popular Linux influencer [Luke Smith](https://lukesmith.xyz)
 talked about the effort of looking up a Chicken Parmesan recipe in 2021
 without having any adblock or privacy extensions enabled.
 
-I decided to build this website on [`zola`](https://www.getzola.org/),
-which is a modern engine for static sites! I was inspired by [lonami](https://lonami.dev/)
-and I actually forked [his code](https://github.com/LonamiWebs/lonamiwebs.github.io)
-to make [mine](https://github.com/Bi-Rabittoh/birabittoh.github.io). I
-think our websites are a good example of how clean and fast a webpage
-should be.
+That's because most modern websites take a lot of time to load framework
+files, ads and trackers. While that's kinda functional, I think we
+should change our habits and start making simple websites again.
+
+In fact, I thought about creating this blog (and article) when I saw
+[Lonami](https://lonami.dev/)'s minimal website and immediately noticed
+how fast and clean it feels.
 
 Yeah, this looks like a first world problem and it probably is, but it's
 not as subtle as you think. I'm actually convinced that the internet
-*could* actually benefit from this way of thinking, and that's what I'm
-going to talk about in this first article. 
+**could** actually benefit from this way of thinking, and that's what I'm
+going to talk about. 
 
 
 
@@ -63,21 +64,21 @@ This plethora of uses is possible today because of the existence of
 various libraries and frameworks that simplify JavaScript and CSS and
 make them easier to develop complicated websites with.
 This is good for basic web users who just want functional websites, and
-great for developers since they can easily code complicated code inside
-the browser, making it the perfect cross-platform wet dream we all have.
+great for developers since they can easily code advanced functions
+inside the browser, which makes them work in every OS.
 
 Sadly, this brings us to the problem: any modern website has become a
 burden for any browser to load, since our browser needs to download and
-parse through each library used and often fill the page contents as you
+parse through each library and often fill the page content as you
 scroll through.
 In his video, Luke Smith found that a simple Chicken Parmesan recipe
-would take up to 5-10 megabytes, which doesn't sound like a lot, but it
+would take up to _5-10 megabytes_, which doesn't sound like a lot, but it
 actually is.
 
 It's easier to understand it if you think about it with video-games;
 any game on 16-bit[^gaming-storage] consoles and earlier, including
 full-fledged 30+ hour adventures like _Final Fantasy 6_ and _Chrono
-Trigger_, weighs less than that one single recipe webpage.
+Trigger_, weighs less than one single recipe page.
 
 
 The solution
@@ -98,7 +99,9 @@ and CSS for your website: this ensures your pages will load instantly
 and be compatible even with the oldest of browsers!
 
 If you like this philosophy, you can check out other projects that aim
-for a simpler and faster web, like these:
+for a simpler and faster web, like these ones:
+* [zola](https://www.getzola.org/), a simple and modern static site
+engine;
 * [based.cooking](https://based.cooking/), a modern recipe website based
  on collaboration via GitHub;
 * [wiby.me](https://wiby.me/), a search engine that aims to only index
