@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
-	<title>Bi-Rabittoh&#x27;s Site - BiRabittoh&#x27;s blog</title>
+	<title>BiRabittoh&#x27;s Site - BiRabittoh&#x27;s blog</title>
 	<link href="https://bi-rabittoh.github.io/blog/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://bi-rabittoh.github.io/blog/"/>
 	<generator uri="https://www.getzola.org/">Zola</generator>
@@ -18,16 +18,16 @@
 where the popular Linux influencer &lt;a href=&quot;https:&#x2F;&#x2F;lukesmith.xyz&quot;&gt;Luke Smith&lt;&#x2F;a&gt;
 talked about the effort of looking up a Chicken Parmesan recipe in 2021
 without having any adblock or privacy extensions enabled.&lt;&#x2F;p&gt;
-&lt;p&gt;I decided to build this website on &lt;a href=&quot;https:&#x2F;&#x2F;www.getzola.org&#x2F;&quot;&gt;&lt;code&gt;zola&lt;&#x2F;code&gt;&lt;&#x2F;a&gt;,
-which is a modern engine for static sites! I was inspired by &lt;a href=&quot;https:&#x2F;&#x2F;lonami.dev&#x2F;&quot;&gt;lonami&lt;&#x2F;a&gt;
-and I actually forked &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;LonamiWebs&#x2F;lonamiwebs.github.io&quot;&gt;his code&lt;&#x2F;a&gt;
-to make &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;Bi-Rabittoh&#x2F;birabittoh.github.io&quot;&gt;mine&lt;&#x2F;a&gt;. I
-think our websites are a good example of how clean and fast a webpage
-should be.&lt;&#x2F;p&gt;
+&lt;p&gt;That&#x27;s because most modern websites take a lot of time to load framework
+files, ads and trackers. While that&#x27;s kinda functional, I think we
+should change our habits and start making simple websites again.&lt;&#x2F;p&gt;
+&lt;p&gt;In fact, I thought about creating this blog (and article) when I saw
+&lt;a href=&quot;https:&#x2F;&#x2F;lonami.dev&#x2F;&quot;&gt;Lonami&lt;&#x2F;a&gt;&#x27;s minimal website and immediately noticed
+how fast and clean it feels.&lt;&#x2F;p&gt;
 &lt;p&gt;Yeah, this looks like a first world problem and it probably is, but it&#x27;s
 not as subtle as you think. I&#x27;m actually convinced that the internet
-&lt;em&gt;could&lt;&#x2F;em&gt; actually benefit from this way of thinking, and that&#x27;s what I&#x27;m
-going to talk about in this first article. &lt;&#x2F;p&gt;
+&lt;strong&gt;could&lt;&#x2F;strong&gt; actually benefit from this way of thinking, and that&#x27;s what I&#x27;m
+going to talk about. &lt;&#x2F;p&gt;
 &lt;h2 id=&quot;the-problem&quot;&gt;The problem&lt;&#x2F;h2&gt;
 &lt;p&gt;In the early days of the internet, it was common for webpages to be
 written using only HTML, so we had very ugly but functional websites.&lt;&#x2F;p&gt;
@@ -56,19 +56,19 @@ different software.&lt;&#x2F;p&gt;
 various libraries and frameworks that simplify JavaScript and CSS and
 make them easier to develop complicated websites with.
 This is good for basic web users who just want functional websites, and
-great for developers since they can easily code complicated code inside
-the browser, making it the perfect cross-platform wet dream we all have.&lt;&#x2F;p&gt;
+great for developers since they can easily code advanced functions
+inside the browser, which makes them work in every OS.&lt;&#x2F;p&gt;
 &lt;p&gt;Sadly, this brings us to the problem: any modern website has become a
 burden for any browser to load, since our browser needs to download and
-parse through each library used and often fill the page contents as you
+parse through each library and often fill the page content as you
 scroll through.
 In his video, Luke Smith found that a simple Chicken Parmesan recipe
-would take up to 5-10 megabytes, which doesn&#x27;t sound like a lot, but it
+would take up to &lt;em&gt;5-10 megabytes&lt;&#x2F;em&gt;, which doesn&#x27;t sound like a lot, but it
 actually is.&lt;&#x2F;p&gt;
 &lt;p&gt;It&#x27;s easier to understand it if you think about it with video-games;
 any game on 16-bit&lt;sup class=&quot;footnote-reference&quot;&gt;&lt;a href=&quot;#gaming-storage&quot;&gt;1&lt;&#x2F;a&gt;&lt;&#x2F;sup&gt; consoles and earlier, including
 full-fledged 30+ hour adventures like &lt;em&gt;Final Fantasy 6&lt;&#x2F;em&gt; and &lt;em&gt;Chrono
-Trigger&lt;&#x2F;em&gt;, weighs less than that one single recipe webpage.&lt;&#x2F;p&gt;
+Trigger&lt;&#x2F;em&gt;, weighs less than one single recipe page.&lt;&#x2F;p&gt;
 &lt;h2 id=&quot;the-solution&quot;&gt;The solution&lt;&#x2F;h2&gt;
 &lt;p&gt;Well, I don&#x27;t think this &amp;quot;problem&amp;quot; is getting solved soon, as new
 frameworks for web development are constantly being introduced. Sadly,
@@ -82,8 +82,10 @@ a flashy website was cool and different from what everyone else had.&lt;&#x2F;p&
 and CSS for your website: this ensures your pages will load instantly
 and be compatible even with the oldest of browsers!&lt;&#x2F;p&gt;
 &lt;p&gt;If you like this philosophy, you can check out other projects that aim
-for a simpler and faster web, like these:&lt;&#x2F;p&gt;
+for a simpler and faster web, like these ones:&lt;&#x2F;p&gt;
 &lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.getzola.org&#x2F;&quot;&gt;zola&lt;&#x2F;a&gt;, a simple and modern static site
+engine;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;based.cooking&#x2F;&quot;&gt;based.cooking&lt;&#x2F;a&gt;, a modern recipe website based
 on collaboration via GitHub;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;wiby.me&#x2F;&quot;&gt;wiby.me&lt;&#x2F;a&gt;, a search engine that aims to only index
