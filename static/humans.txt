@@ -1,7 +1,7 @@
 ﻿/* TEAM */
 	Web Designer: Marco Andronaco
-	Contact: https://lonami.dev/contact
-	From: Spain
+	Contact: andronacomarco@gmail.com
+	From: Italy
 	
 	
 /* SITE */
@@ -9,5 +9,5 @@
 	Language: English
 	Doctype: HTML5
 	Standards: HTML5, CSS3
-	IDE: vscode
-	Software: zola, git, Inkscape
+	IDE: geany, vscode
+	Software: zola, git
