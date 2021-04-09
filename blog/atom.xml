@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
 	<title>Bi-Rabittoh&#x27;s Site - BiRabittoh&#x27;s blog</title>
-	<link href="bi-rabittoh.github.io/blog/atom.xml" rel="self" type="application/atom+xml"/>
-  <link href="bi-rabittoh.github.io/blog/"/>
+	<link href="https://bi-rabittoh.github.io/blog/atom.xml" rel="self" type="application/atom+xml"/>
+  <link href="https://bi-rabittoh.github.io/blog/"/>
 	<generator uri="https://www.getzola.org/">Zola</generator>
 	<updated>2021-04-09T00:00:00+00:00</updated>
-	<id>bi-rabittoh.github.io/blog/atom.xml</id>
+	<id>https://bi-rabittoh.github.io/blog/atom.xml</id>
 	<entry xml:lang="en">
 		<title>Modern web bloat</title>
 		<published>2021-04-09T00:00:00+00:00</published>
 		<updated>2021-04-09T00:00:00+00:00</updated>
-		<link href="bi-rabittoh.github.io/blog/modern-web-bloat/" type="text/html"/>
-		<id>bi-rabittoh.github.io/blog/modern-web-bloat/</id>
+		<link href="https://bi-rabittoh.github.io/blog/modern-web-bloat/" type="text/html"/>
+		<id>https://bi-rabittoh.github.io/blog/modern-web-bloat/</id>
 		<content type="html">&lt;p&gt;This is it. My first blog post; I guess I just became a boomer.&lt;&#x2F;p&gt;
 &lt;h2 id=&quot;inspiration&quot;&gt;Inspiration&lt;&#x2F;h2&gt;
 &lt;p&gt;Some time ago I stumbled upon &lt;a href=&quot;https:&#x2F;&#x2F;odysee.com&#x2F;@Luke:7&#x2F;a-demonstration-of-modern-web-bloat:f&quot;&gt;this video&lt;&#x2F;a&gt;,

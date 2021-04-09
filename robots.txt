@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: bi-rabittoh.github.io/sitemap.xml
+Sitemap: https://bi-rabittoh.github.io/sitemap.xml

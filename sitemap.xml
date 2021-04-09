@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>bi-rabittoh.github.io/</loc>
+        <loc>https://bi-rabittoh.github.io/</loc>
     </url>
     <url>
-        <loc>bi-rabittoh.github.io/blog/</loc>
+        <loc>https://bi-rabittoh.github.io/blog/</loc>
     </url>
     <url>
-        <loc>bi-rabittoh.github.io/blog/modern-web-bloat/</loc>
+        <loc>https://bi-rabittoh.github.io/blog/modern-web-bloat/</loc>
         <lastmod>2021-04-09</lastmod>
     </url>
     <url>
-        <loc>bi-rabittoh.github.io/category/</loc>
+        <loc>https://bi-rabittoh.github.io/category/</loc>
     </url>
     <url>
-        <loc>bi-rabittoh.github.io/category/tech/</loc>
+        <loc>https://bi-rabittoh.github.io/category/tech/</loc>
     </url>
     <url>
-        <loc>bi-rabittoh.github.io/tags/</loc>
+        <loc>https://bi-rabittoh.github.io/tags/</loc>
     </url>
     <url>
-        <loc>bi-rabittoh.github.io/tags/tips/</loc>
+        <loc>https://bi-rabittoh.github.io/tags/tips/</loc>
     </url>
     <url>
-        <loc>bi-rabittoh.github.io/tags/vent/</loc>
+        <loc>https://bi-rabittoh.github.io/tags/vent/</loc>
     </url>
 </urlset>
