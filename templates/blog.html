@@ -1,10 +1,12 @@
 {% extends "base.html" %}
 
 {% block content %}
-<h1 class="title">{{ section.title }}</h1>
+<h2 class="title">{{ section.title }}</h2>
 <p id="welcome" onclick="pls_stop()">Welcome to my blog!</p>
 
-<p>Here I occasionally post new entries, mostly tech related. Perhaps it's tips for a new game I'm playing, perhaps it has something to do with FFI, or perhaps I'm fighting the borrow checker (just kidding, I'm over that. Mostly).</p>
+<p>I will post about anything I find interesting or noteworthy, be it
+related to irl stuff or the tech world. I hope someone can read this
+and maybe find it inspiring? If you do, feel free to let me know.</p>
 
 <hr>
 
@@ -22,7 +24,7 @@
 <script>
     const WELCOME_EN = 'Welcome to my blog!'
     const WELCOME_IT = 'Benvenuto al mio blog!'
-    const APOLOGIES = "ok sorry i'll stop"
+    const APOLOGIES = "sorry i'll stop"
     const REWRITE_DELAY = 5000
     const CHAR_DELAY = 30
     const welcome = document.getElementById('welcome')

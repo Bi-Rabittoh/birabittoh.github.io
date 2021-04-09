@@ -1,2 +1,2 @@
-# sbic.altervista.org
-Official [BiRabittoh's website](https://sbic.altervista.org).
+# bi-rabittoh.github.io
+Official [BiRabittoh's website](https://bi-rabittoh.github.io).
