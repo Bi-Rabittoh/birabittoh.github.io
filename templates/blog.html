@@ -21,7 +21,7 @@
 
 <script>
     const WELCOME_EN = 'Welcome to my blog!'
-    const WELCOME_ES = '¡Bienvenido a mi blog!'
+    const WELCOME_IT = 'Benvenuto al mio blog!'
     const APOLOGIES = "ok sorry i'll stop"
     const REWRITE_DELAY = 5000
     const CHAR_DELAY = 30
@@ -47,7 +47,7 @@
             }
             setTimeout(begin_rewrite, CHAR_DELAY)
         } else {
-            let text = english ? WELCOME_EN : WELCOME_ES
+            let text = english ? WELCOME_EN : WELCOME_IT
             welcome.innerHTML = text.slice(0, welcome.innerHTML.length + 1)
             deleting = welcome.innerHTML.length == text.length
             english = deleting - english
