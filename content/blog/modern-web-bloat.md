@@ -1,6 +1,6 @@
 +++
 title = "Modern web bloat"
-date = 2021-04-09
+date = 2021-04-09T15:00:00Z
 [taxonomies]
 category = ["tech"]
 tags = ["tips", "vent"]
