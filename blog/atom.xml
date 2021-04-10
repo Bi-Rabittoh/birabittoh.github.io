@@ -1,18 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
-	<title>BiRabittoh&#x27;s Site - BiRabittoh&#x27;s blog</title>
-	<link href="https://bi-rabittoh.github.io/blog/atom.xml" rel="self" type="application/atom+xml"/>
-  <link href="https://bi-rabittoh.github.io/blog/"/>
-	<generator uri="https://www.getzola.org/">Zola</generator>
-	<updated>2021-04-09T00:00:00+00:00</updated>
-	<id>https://bi-rabittoh.github.io/blog/atom.xml</id>
-	<entry xml:lang="en">
-		<title>Modern web bloat</title>
-		<published>2021-04-09T00:00:00+00:00</published>
-		<updated>2021-04-09T00:00:00+00:00</updated>
-		<link href="https://bi-rabittoh.github.io/blog/modern-web-bloat/" type="text/html"/>
-		<id>https://bi-rabittoh.github.io/blog/modern-web-bloat/</id>
-		<content type="html">&lt;p&gt;This is it. My first blog post; I guess I just became a boomer.&lt;&#x2F;p&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+      <title>BiRabittoh&#x27;s Blog</title>
+        <link>https://bi-rabittoh.github.io/blog/</link>
+        <description>A minimal website where I post stuff I&#x27;m passionate about.</description>
+        <generator>Zola</generator>
+        <language>en</language>
+        <atom:link href="https://bi-rabittoh.github.io/blog/atom.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 09 Apr 2021 15:00:00 +0000</lastBuildDate>
+        <item>
+            <title>Modern web bloat</title>
+            <author>BiRabittoh</author>
+            <pubDate>Fri, 09 Apr 2021 15:00:00 +0000</pubDate>
+            <link>https://bi-rabittoh.github.io/blog/modern-web-bloat/</link>
+            <guid>https://bi-rabittoh.github.io/blog/modern-web-bloat/</guid>
+            <description>&lt;p&gt;This is it. My first blog post; I guess I just became a boomer.&lt;&#x2F;p&gt;
 &lt;h2 id=&quot;inspiration&quot;&gt;Inspiration&lt;&#x2F;h2&gt;
 &lt;p&gt;Some time ago I stumbled upon &lt;a href=&quot;https:&#x2F;&#x2F;odysee.com&#x2F;@Luke:7&#x2F;a-demonstration-of-modern-web-bloat:f&quot;&gt;this video&lt;&#x2F;a&gt;,
 where the popular Linux influencer &lt;a href=&quot;https:&#x2F;&#x2F;lukesmith.xyz&quot;&gt;Luke Smith&lt;&#x2F;a&gt;
@@ -95,6 +97,7 @@ classic style webpages.&lt;&#x2F;li&gt;
 &lt;div class=&quot;footnote-definition&quot; id=&quot;gaming-storage&quot;&gt;&lt;sup class=&quot;footnote-definition-label&quot;&gt;1&lt;&#x2F;sup&gt;
 &lt;p&gt;As stated in &lt;a href=&quot;https:&#x2F;&#x2F;blogs.umass.edu&#x2F;Techbytes&#x2F;2014&#x2F;02&#x2F;10&#x2F;history-of-gaming-storage&#x2F;#attachment_2827&quot;&gt;this article&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
 &lt;&#x2F;div&gt;
-</content>
-	</entry>
-</feed>
+</description>
+        </item>
+    </channel>
+</rss>
