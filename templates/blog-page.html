@@ -5,7 +5,7 @@
 {% block content %}
 <h1 class="title">{{ page.title }}</h1>
 <div class="time">
-    <p>{{ page.date | date(format="%m/%d/%Y %H:%M") }}</p>
+    <p>{{ page.date | date(format="%d/%m/%Y %H:%M") }}</p>
     {% if page.updated and page.updated != page.date %}<p>last updated {{ page.updated | date(format="%m/%d/%Y %H:%M") }}</p>{% endif %}
 </div>
 {{ page.content | safe }}

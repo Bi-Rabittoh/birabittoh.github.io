@@ -82,7 +82,7 @@ Trigger_, weighs less than one single recipe page.
 
 
 The solution
---------
+------------
 
 Well, I don't think this "problem" is getting solved soon, as new
 frameworks for web development are constantly being introduced. Sadly,
@@ -108,9 +108,6 @@ engine;
 classic style webpages.
 
 Footnotes
---------
+---------
 
 [^gaming-storage]: As stated in [this article](https://blogs.umass.edu/Techbytes/2014/02/10/history-of-gaming-storage/#attachment_2827).
-
-
-
