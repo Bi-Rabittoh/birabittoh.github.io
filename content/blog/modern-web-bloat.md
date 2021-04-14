@@ -1,6 +1,7 @@
 +++
 title = "Modern web bloat"
 date = 2021-04-09T15:00:00Z
+updated = 2021-04-14T22:00:00Z
 [taxonomies]
 category = ["tech"]
 tags = ["tips", "vent"]
@@ -10,7 +11,6 @@ This is it. My first blog post; I guess I just became a boomer.
 
 Inspiration
 -----------
-
 Some time ago I stumbled upon [this video](https://odysee.com/@Luke:7/a-demonstration-of-modern-web-bloat:f),
 where the popular Linux influencer [Luke Smith](https://lukesmith.xyz)
 talked about the effort of looking up a Chicken Parmesan recipe in 2021
@@ -29,11 +29,8 @@ not as subtle as you think. I'm actually convinced that the internet
 **could** actually benefit from this way of thinking, and that's what I'm
 going to talk about. 
 
-
-
 The problem
 -----------
-
 In the early days of the internet, it was common for webpages to be
 written using only HTML, so we had very ugly but functional websites.
 
@@ -80,10 +77,8 @@ any game on 16-bit[^gaming-storage] consoles and earlier, including
 full-fledged 30+ hour adventures like _Final Fantasy 6_ and _Chrono
 Trigger_, weighs less than one single recipe page.
 
-
 The solution
 ------------
-
 Well, I don't think this "problem" is getting solved soon, as new
 frameworks for web development are constantly being introduced. Sadly,
 it's a one-way train, but if you're a web-dev you could actually make a
@@ -100,14 +95,14 @@ and be compatible even with the oldest of browsers!
 
 If you like this philosophy, you can check out other projects that aim
 for a simpler and faster web, like these ones:
+* [gemini://](https://gemini.circumlunar.space/), a new, purposefully limited, internet protocol.
 * [zola](https://www.getzola.org/), a simple and modern static site
 engine;
 * [based.cooking](https://based.cooking/), a modern recipe website based
- on collaboration via GitHub;
+ on user collaboration via GitHub;
 * [wiby.me](https://wiby.me/), a search engine that aims to only index
 classic style webpages.
 
 Footnotes
 ---------
-
 [^gaming-storage]: As stated in [this article](https://blogs.umass.edu/Techbytes/2014/02/10/history-of-gaming-storage/#attachment_2827).
